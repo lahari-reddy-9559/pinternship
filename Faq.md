@@ -63,7 +63,10 @@ Guidelines:
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
-**2.5 How can I avail the one-day leave allowed every month during the internship?**    
+**2.5 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
+Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.
+
+**2.6 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
